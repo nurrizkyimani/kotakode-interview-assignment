@@ -1,6 +1,7 @@
 # Result 
 web : https://kotakode-interview-assignment.vercel.app/
 
+<img src="https://github.com/nurrizkyimani/kotakode-interview-assignment/blob/master/ss_kotakode.png">
 
 
 # kotakode-interview-assignment
