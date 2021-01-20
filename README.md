@@ -1,3 +1,8 @@
+# Result 
+web : https://kotakode-interview-assignment.vercel.app/
+
+
+
 # kotakode-interview-assignment
 
 This project contains the source code to a simple mini-todo list that helps people keeps track of their "Pekerjaan Rumah Tangga". Some of the features are not yet fully functioning. 
