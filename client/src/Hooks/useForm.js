@@ -1,4 +1,4 @@
-import React, { useState, useReducer } from 'react';
+import { useReducer } from 'react';
 
 // custom hooks for form component return formState, formDispatch, handleFormName, handleFormDesc
 function useForm() {

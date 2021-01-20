@@ -4,9 +4,6 @@ import TodoList from './components/TodoList';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
 import Show from './components/Show';
-import { useTodoList } from './Hooks/useTodolist';
-
-import {useForm} from './Hooks/useForm';
 import Form from './components/Form';
 
 function App() {
